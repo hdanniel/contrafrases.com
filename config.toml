@@ -1,0 +1,25 @@
+languageCode = "es-pe"
+title = "ContraFrases"
+baseurl = "http://contrafrases.com/"
+theme = "ghostwriter"
+googleAnalytics = "XXX"
+
+[Author]
+    name = "hdanniel"
+    profile = "http://twitter.com/contrafrases"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "ContraFrases"
+    description = "Frases de contrabando."
+    github = "https://github.com/hdanniel/contrafrases.com"
+    twitter = "https://twitter.com/contrafrases"
+    opengraph = true
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+
