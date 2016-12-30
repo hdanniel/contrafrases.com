@@ -10,6 +10,9 @@ type = "post"
 
 "Os dieron a elegir entre el deshonor y la guerra… elegisteis el deshonor, y ahora tendréis la guerra"
 
+![Os dieron a elegir entre el deshonor y la guerra… elegisteis el deshonor, y ahora tendréis la guerra.](http://contrafrases.com/img/deshonor-churchill.jpg)
+
+
 Esta frase se cita como pronunciada por Winston Churchill en el parlamento ingles luego de firmados los [Acuerdos de Munich](https://es.wikipedia.org/wiki/Acuerdos_de_M%C3%BAnich) entre otros por Neville Chamberlain y Adolf Hitler. Ver ejemplo en [Churchill, Chamberlain y Kuczynski
 ](http://larepublica.pe/impresa/opinion/829539-churchill-chamberlain-y-kuczynski)
 

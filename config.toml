@@ -14,7 +14,7 @@ googleAnalytics = "XXX"
 [Params]
     intro = true
     headline = "ContraFrases"
-    description = "Frases de contrabando."
+    description = "Frases mal citadas, apócrifas, que nunca se dijeron. Falsas."
     github = "https://github.com/hdanniel/contrafrases.com"
     twitter = "https://twitter.com/contrafrases"
     opengraph = true
